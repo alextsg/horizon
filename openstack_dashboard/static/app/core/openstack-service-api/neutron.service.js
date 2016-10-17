@@ -249,7 +249,7 @@
      * @param {string} params.mac_address
      * The MAC address of the port.
      *
-     * @param {string} params.port_id
+     * @param {string} params.id
      * The UUID of the port.
      *
      * @param {Array} params.security_groups
